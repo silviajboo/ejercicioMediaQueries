@@ -1,0 +1,124 @@
+/*Guía estilo FreakStyle*/
+
+body{
+    font-size:16px; 
+    line-height: 24px;
+    font-family: 'Lato', sans-serif;   
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    width:100%;  
+    min-width: 320px;
+}
+
+p{
+   font-size:16px; 
+    line-height: 24px;
+    font-family: 'Lato', sans-serif;   
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+    width:100%;  
+    min-width: 320px;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+    font-size: 2.18rem;
+    line-height: 2.5rem;
+    margin-top: 1.36rem;
+    margin-bottom: 1.36rem;
+    font-weight: 700;
+}
+
+h2{
+	font-family: 'Montserrat', sans-serif;
+    font-size: 1.75rem;
+    line-height: 1.9rem;
+    margin-top: 1.36rem;
+    margin-bottom: 1.36rem;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    margin-top: 1.36rem;
+    margin-bottom: 1.36rem;
+    font-weight: 700;
+}
+
+h4{
+    font-size: 1rem;
+    line-height: 1.2rem;
+    margin-top: 1.36rem;
+    margin-bottom: 1.36rem;
+    font-weight: 700;
+}
+
+h5{
+    font-size: .7rem;
+    line-height: 1rem;
+    margin-top: 1.36rem;
+    margin-bottom: 1.36rem;
+    font-weight: 700;
+}
+
+#header{
+
+
+}
+
+#footer{
+	background-color: #000000;
+	color: white;
+}
+
+.product {
+	width: 100%;
+	height: auto;
+
+}
+
+.logo{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	line-height: 1.25em;
+}
+
+.logo-header{
+	float: left;
+}
+
+.menu-bar{
+	float: right;
+}
+
+.btn{
+	/*padding: .75rem;*/
+	margin: 15%;
+	border: 1px solid #E9563E;
+	min-width: 240px;
+	background-color: #F7F4F4;
+	display: inline-block;
+	text-align: center;
+}
+.socialshare{
+	float: center;
+	display: inline;
+}
+
+@media only screen and (min-width: 768px){
+
+
+
+}
+
+@media only screen and (min-width: 1024px){
+
+	
+
+}
+
+
+
+
+
